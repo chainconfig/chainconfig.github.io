@@ -36,11 +36,11 @@
 			"symbol": "DOT"
 		},
     {
-			"decimals": "6",
-			"address": "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
-			"name": "Tether USD (Wormhole)",
+			"address": "0x55d398326f99059ff775485246999027b3197955",
+			"decimals": "18",
+			"name": "Tether USD",
 			"symbol": "USDT",
-			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/unknown.svg"
+			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x55d398326f99059fF775485246999027B3197955.png"
 		},
 		{
 			"address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
@@ -15805,8 +15805,8 @@
 			"decimals": "6",
 			"address": "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
 			"name": "Tether USD (Wormhole)",
-			"symbol": "USDT",
-			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/unknown.svg"
+			"symbol": "USD",
+			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc.png"
 		},
 		{
 			"decimals": "18",
