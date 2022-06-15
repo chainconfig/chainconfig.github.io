@@ -8,11 +8,11 @@
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
 		},
     {
-      "name": "PinToken",
-      "symbol": "PIN",
-      "address": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
+      "address": "0x8ecFfe1434C9B5290Aaf1C94F754E0aAfdfB2acb",
       "decimals": 18,
-      "logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xdCaC80A4221734fF6aa6622a5627ceCCbF38E982.svg"
+      "logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x8ecFfe1434C9B5290Aaf1C94F754E0aAfdfB2acb.png",
+      "name": "Big Bang Token",
+      "symbol": "BBG"
     },
 		{
 			"address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
@@ -29,18 +29,18 @@
 			"symbol": "DAI"
 		},
 		{
-			"address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-			"decimals": "18",
-			"name": "BUSD Token",
-			"symbol": "BUSD",
-			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
-		},
-		{
 			"address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
 			"decimals": 18,
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png",
 			"name": "Polkadot Token ",
 			"symbol": "DOT"
+		},
+    {
+			"decimals": "6",
+			"address": "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
+			"name": "Tether USD (Wormhole)",
+			"symbol": "USDT",
+			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/unknown.svg"
 		},
 		{
 			"address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
@@ -48,13 +48,6 @@
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png",
 			"name": "ChainLink Token",
 			"symbol": "LINK"
-		},
-		{
-			"address": "0x55d398326f99059ff775485246999027b3197955",
-			"decimals": "18",
-			"name": "Tether USD",
-			"symbol": "USDT",
-			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x55d398326f99059fF775485246999027B3197955.png"
 		},
 		{
 			"address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
@@ -128,13 +121,6 @@
 			"symbol": "BTCB",
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
 		},
-    {
-      "name": "AI DAO",
-      "symbol": "AI",
-      "address": "0x1e2C9358D8A4CB1E812e02e33B6b040B395688db",
-      "decimals": 18,
-      "logoURI": "https://acswap.gitee.io/tokens/bsc/0x1e2C9358D8A4CB1E812e02e33B6b040B395688db.svg"
-    },
 		{
 			"address": "0x12bb890508c125661e03b09ec06e404bc9289040",
 			"decimals": "18",
@@ -143,19 +129,19 @@
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x12bb890508c125661e03b09ec06e404bc9289040.jpeg"
 		},
 		{
-			"name": "PinToken",
-			"symbol": "PIN",
-			"address": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
-			"decimals": 18,
-			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xdCaC80A4221734fF6aa6622a5627ceCCbF38E982.svg"
-		},
-		{
 			"address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
 			"decimals": "18",
 			"name": "Mobox",
 			"symbol": "MBOX",
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377.png"
 		},
+    {
+      "address": "0x8ecFfe1434C9B5290Aaf1C94F754E0aAfdfB2acb",
+      "decimals": 18,
+      "logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x8ecFfe1434C9B5290Aaf1C94F754E0aAfdfB2acb.png",
+      "name": "Big Bang Token",
+      "symbol": "BBG"
+    },
 		{
 			"address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
 			"decimals": "18",

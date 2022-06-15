@@ -7,13 +7,6 @@
 			"decimals": 18,
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
 		},
-    {
-      "name": "PinToken",
-      "symbol": "PIN",
-      "address": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
-      "decimals": 18,
-      "logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xdCaC80A4221734fF6aa6622a5627ceCCbF38E982.svg"
-    },
 		{
 			"address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 			"decimals": 18,
@@ -35,6 +28,13 @@
 			"symbol": "BUSD",
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
 		},
+    {
+      "address": "0x11236618476d83cBeb4fe1EAc66F686b45241BaB",
+      "decimals": 18,
+      "logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x11236618476d83cBeb4fe1EAc66F686b45241BaB.png",
+      "name": "BH SWAP",
+      "symbol": "BNB"
+    },
 		{
 			"address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
 			"decimals": 18,
@@ -128,26 +128,12 @@
 			"symbol": "BTCB",
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
 		},
-    {
-      "name": "AI DAO",
-      "symbol": "AI",
-      "address": "0x1e2C9358D8A4CB1E812e02e33B6b040B395688db",
-      "decimals": 18,
-      "logoURI": "https://acswap.gitee.io/tokens/bsc/0x1e2C9358D8A4CB1E812e02e33B6b040B395688db.svg"
-    },
 		{
 			"address": "0x12bb890508c125661e03b09ec06e404bc9289040",
 			"decimals": "18",
 			"name": "Radio Caca V2",
 			"symbol": "RACA",
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x12bb890508c125661e03b09ec06e404bc9289040.jpeg"
-		},
-		{
-			"name": "PinToken",
-			"symbol": "PIN",
-			"address": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
-			"decimals": 18,
-			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xdCaC80A4221734fF6aa6622a5627ceCCbF38E982.svg"
 		},
 		{
 			"address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
@@ -170,6 +156,13 @@
 			"symbol": "ETERNAL",
 			"logoURI": "https://testethbeta.gitee.io/bsc/tokens/0xd44fd09d74cd13838f137b590497595d6b3feea4.png"
 		},
+    {
+      "address": "0x11236618476d83cBeb4fe1EAc66F686b45241BaB",
+      "decimals": 18,
+      "logoURI": "https://testethbeta.gitee.io/bsc/tokens/0x11236618476d83cBeb4fe1EAc66F686b45241BaB.png",
+      "name": "BH SWAP",
+      "symbol": "BNB"
+    },
 		{
 			"address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
 			"decimals": "18",
