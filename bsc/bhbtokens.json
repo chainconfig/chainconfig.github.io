@@ -220,6 +220,13 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
 		},
 		{
+			"address": "0x476417b21b0427d2d2b1ffb967a56acb2cabd58b",
+			"decimals": "18",
+			"name": "FIT",
+			"symbol": "FIT",
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x476417b21b0427d2d2b1ffb967a56acb2cabd58b.png"
+		},
+		{
 			"address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
 			"decimals": "18",
 			"name": "Cardano Token",
