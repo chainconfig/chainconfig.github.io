@@ -1039,6 +1039,13 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/unknown.svg"
 		},
 		{
+			"name": "PinToken",
+			"symbol": "PIN",
+			"address": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xdCaC80A4221734fF6aa6622a5627ceCCbF38E982.svg"
+		},
+		{
 			"address": "0xadcfc6bf853a0a8ad7f9ff4244140d10cf01363c",
 			"decimals": "9",
 			"name": "TrustPad",
