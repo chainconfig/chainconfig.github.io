@@ -689,6 +689,13 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xe9c803f48dffe50180bd5b01dc04da939e3445fc.png"
 		},
 		{
+			"address": "0x69BeEc60a8aAA6791FCf98b663CDCfFAAb006D8C",
+			"decimals": "18",
+			"name": "DAO Token",
+			"symbol": "DAO",
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x69BeEc60a8aAA6791FCf98b663CDCfFAAb006D8C.png"
+		},
+		{
 			"address": "0x36bc1f4d4af21df024398150ad39627fb2c8a847",
 			"decimals": "18",
 			"name": "ORAKLER",
