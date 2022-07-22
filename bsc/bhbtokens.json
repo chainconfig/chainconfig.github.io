@@ -409,6 +409,13 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1.png"
 		},
 		{
+		  "name": "BhSwap Dao",
+		  "symbol": "DAO",
+		  "address": "0x55F8345Ef373824A472c6313576Bf1528Ed62cBD",
+		  "decimals": 18,
+		  "logoURI": "https://chainconfig.github.io/bsc/tokens/0x55F8345Ef373824A472c6313576Bf1528Ed62cBD.png"
+		},
+		{
 			"address": "0x477bc8d23c634c154061869478bce96be6045d12",
 			"decimals": "18",
 			"name": "SeedifyFund",
