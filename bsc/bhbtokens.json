@@ -28,13 +28,13 @@
 			"symbol": "BUSD",
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
 		},
-    {
-      "address": "0x11236618476d83cBeb4fe1EAc66F686b45241BaB",
-      "decimals": 18,
-      "logoURI": "https://chainconfig.github.io/bsc/tokens/0x11236618476d83cBeb4fe1EAc66F686b45241BaB.png",
-      "name": "BHSwap",
-      "symbol": "BHB"
-    },
+		{
+			"address": "0xD6a97c37AC6E05AeE38029fEa8b7bF5bCa79783E",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xD6a97c37AC6E05AeE38029fEa8b7bF5bCa79783E.png",
+			"name": "BHSwap",
+			"symbol": "BHB"
+		},
 		{
 			"address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
 			"decimals": 18,
@@ -156,13 +156,13 @@
 			"symbol": "ETERNAL",
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xd44fd09d74cd13838f137b590497595d6b3feea4.png"
 		},
-    {
-      "address": "0x11236618476d83cBeb4fe1EAc66F686b45241BaB",
-      "decimals": 18,
-      "logoURI": "https://chainconfig.github.io/bsc/tokens/0x11236618476d83cBeb4fe1EAc66F686b45241BaB.png",
-      "name": "BHSwap",
-      "symbol": "BHB"
-    },
+		{
+			"address": "0xD6a97c37AC6E05AeE38029fEa8b7bF5bCa79783E",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xD6a97c37AC6E05AeE38029fEa8b7bF5bCa79783E.png",
+			"name": "BHSwap",
+			"symbol": "BHB"
+		},
 		{
 			"address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
 			"decimals": "18",
