@@ -133,14 +133,14 @@
       "symbol": "AI",
       "address": "0x1e2C9358D8A4CB1E812e02e33B6b040B395688db",
       "decimals": 18,
-      "logoURI": "https://acswap.gitee.io/tokens/bsc/0x1e2C9358D8A4CB1E812e02e33B6b040B395688db.svg"
+      "logoURI": "https://chainconfig.github.io/bsc/tokens/0x1e2C9358D8A4CB1E812e02e33B6b040B395688db.png"
     },
 		{
 			"name": "CS Token",
 			"symbol": "CS",
 			"address": "0x71694c0d04bCDAAEa775c236A0Cf0c29da104536",
 			"decimals": 18,
-			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x71694c0d04bCDAAEa775c236A0Cf0c29da104536.jpg"
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x71694c0d04bCDAAEa775c236A0Cf0c29da104536.png"
 		},
 		{
 			"address": "0x12bb890508c125661e03b09ec06e404bc9289040",
