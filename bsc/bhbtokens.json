@@ -36,11 +36,11 @@
 			"symbol": "BHB"
 		},
 		{
-			"address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+			"address": "0x608e0fc228b0c4dd45ad73027cbe7ddc45b10969",
 			"decimals": 18,
-			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png",
-			"name": "Polkadot Token ",
-			"symbol": "DOT"
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x608e0fc228b0c4dd45ad73027cbe7ddc45b10969.png",
+			"name": "SnowBall",
+			"symbol": "SNOW"
 		},
 		{
 			"address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
