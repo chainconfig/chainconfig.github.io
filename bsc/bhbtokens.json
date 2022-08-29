@@ -164,6 +164,13 @@
 			"symbol": "BHB"
 		},
 		{
+			"address": "0x608e0fc228b0c4dd45ad73027cbe7ddc45b10969",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x608e0fc228b0c4dd45ad73027cbe7ddc45b10969.png",
+			"name": "SnowBall",
+			"symbol": "SNOW"
+		},
+		{
 			"address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
 			"decimals": "18",
 			"name": "AlpacaToken",
