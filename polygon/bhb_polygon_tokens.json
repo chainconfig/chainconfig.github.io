@@ -25,6 +25,13 @@
 			"symbol": "WBTC"
 		},
 		{
+			"address": "0xfdca82867cb43c658a0e8c973d594bff17ca3498",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x608e0fc228b0c4dd45ad73027cbe7ddc45b10969.png",
+			"name": "SnowBall",
+			"symbol": "SNOW"
+		},
+		{
 			"address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
 			"chainId": 137,
 			"decimals": 18,
@@ -79,13 +86,6 @@
 			"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg",
 			"name": "StargateToken",
 			"symbol": "STG"
-		},
-		{
-			"address": "0xfdca82867cb43c658a0e8c973d594bff17ca3498",
-			"decimals": 18,
-			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x608e0fc228b0c4dd45ad73027cbe7ddc45b10969.png",
-			"name": "SnowBall",
-			"symbol": "SNOW"
 		}
 	],
 	"all": [
