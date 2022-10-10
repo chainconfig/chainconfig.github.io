@@ -10,7 +10,7 @@
     {
       "address": "0x81460AD24eAFa7e77623de607584719aF435Acd3",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainconfig/chainconfig.github.io/master/bsc/tokens/0x81460AD24eAFa7e77623de607584719aF435Acd3.png",
+      "logoURI": "https://chainconfig.github.io/bsc/tokens/0x81460AD24eAFa7e77623de607584719aF435Acd3.png",
       "name": "Big Bang Token",
       "symbol": "BBG"
     },
@@ -166,7 +166,7 @@
 		{
 			"address": "0x81460AD24eAFa7e77623de607584719aF435Acd3",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/chainconfig/chainconfig.github.io/master/bsc/tokens/0x81460AD24eAFa7e77623de607584719aF435Acd3.png",
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x81460AD24eAFa7e77623de607584719aF435Acd3.png",
 			"name": "Big Bang Token",
 			"symbol": "BBG"
 		},
