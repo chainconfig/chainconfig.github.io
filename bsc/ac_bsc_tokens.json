@@ -129,6 +129,13 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
 		},
 		{
+		  "name": "Meta Point",
+		  "symbol": "POT",
+		  "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
+		  "decimals": 18,
+		  "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+		},
+		{
 			"address": "0x12bb890508c125661e03b09ec06e404bc9289040",
 			"decimals": "18",
 			"name": "Radio Caca V2",

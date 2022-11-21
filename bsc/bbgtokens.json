@@ -143,6 +143,13 @@
       "symbol": "BBG"
     },
 		{
+		  "name": "Meta Point",
+		  "symbol": "POT",
+		  "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
+		  "decimals": 18,
+		  "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+		},
+		{
 			"address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
 			"decimals": "18",
 			"name": "Bunny Token",

@@ -142,6 +142,13 @@
 			"decimals": 18,
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x08fe911a3f6472d3616a0b7f877d5a7499c19931.png"
 		},
+		{
+		  "name": "Meta Point",
+		  "symbol": "POT",
+		  "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
+		  "decimals": 18,
+		  "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+		},
     {
       "name": "AI DAO",
       "symbol": "AI",
