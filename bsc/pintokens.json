@@ -108,6 +108,13 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
 		},
 		{
+			"name": "PinToken",
+			"symbol": "PIN",
+			"address": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xdCaC80A4221734fF6aa6622a5627ceCCbF38E982.svg"
+		},
+		{
 			"address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
 			"decimals": "18",
 			"name": "Ethereum Token",
@@ -127,6 +134,13 @@
 			"name": "BTCB Token",
 			"symbol": "BTCB",
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+		},
+		{
+			"name": "Automatic Teller Machine",
+			"symbol": "ATM",
+			"address": "0x08FE911A3f6472d3616a0b7F877D5A7499c19931",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x08fe911a3f6472d3616a0b7f877d5a7499c19931.png"
 		},
     {
       "name": "AI DAO",
@@ -148,13 +162,6 @@
 			"name": "Radio Caca V2",
 			"symbol": "RACA",
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x12bb890508c125661e03b09ec06e404bc9289040.jpeg"
-		},
-		{
-			"name": "PinToken",
-			"symbol": "PIN",
-			"address": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
-			"decimals": 18,
-			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xdCaC80A4221734fF6aa6622a5627ceCCbF38E982.svg"
 		},
 		{
 			"address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
