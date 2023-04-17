@@ -171,11 +171,11 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x12bb890508c125661e03b09ec06e404bc9289040.jpeg"
 		},
 		{
-			"address": "0xa17402C7a11d0e2A661b8495b2F6cB5F4D013284",
+			"address": "0xf7b629283Fb0585E490603a29b2B70b92D69f579",
 			"decimals": "18",
 			"name": "Infinite Possibilities Token",
 			"symbol": "IP",
-			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xa17402C7a11d0e2A661b8495b2F6cB5F4D013284.jpeg"
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xf7b629283Fb0585E490603a29b2B70b92D69f579.jpeg"
 		},
 		{
 			"address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
