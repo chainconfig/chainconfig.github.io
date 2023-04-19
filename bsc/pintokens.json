@@ -173,7 +173,7 @@
 		{
 			"address": "0xf7b629283Fb0585E490603a29b2B70b92D69f579",
 			"decimals": "18",
-			"name": "Infinite Possibilities Token",
+			"name": "IPToken",
 			"symbol": "IP",
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xf7b629283Fb0585E490603a29b2B70b92D69f579.jpeg"
 		},
