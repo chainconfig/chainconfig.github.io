@@ -178,6 +178,13 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xf7b629283Fb0585E490603a29b2B70b92D69f579.jpeg"
 		},
 		{
+			"address": "0x54028359297b74de2913af18b73b3b1970336d82",
+			"decimals": "18",
+			"name": "AIEX Token",
+			"symbol": "AIEX",
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x54028359297b74de2913af18b73b3b1970336d82.jpg"
+		},
+		{
 			"address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
 			"decimals": "18",
 			"name": "Mobox",
