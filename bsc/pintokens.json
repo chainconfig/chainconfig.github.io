@@ -136,6 +136,20 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
 		},
 		{
+			"name": "RevaLink Wallet Token",
+			"symbol": "RWT",
+			"address": "0xec1f55b5be7ee8c24ee26b6cc931ce4d7fd5955c",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xec1f55b5be7ee8c24ee26b6cc931ce4d7fd5955c.png"
+		},
+		{
+			"name": "FTC",
+			"symbol": "FTC",
+			"address": "0x04f46cdfe8dd348e41902eef1aff19ace1661f4c",
+			"decimals": 18,
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x04f46cdfe8dd348e41902eef1aff19ace1661f4c.jpeg"
+		},
+		{
 			"name": "Automatic Teller Machine",
 			"symbol": "ATM",
 			"address": "0x08FE911A3f6472d3616a0b7F877D5A7499c19931",
