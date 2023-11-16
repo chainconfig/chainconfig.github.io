@@ -185,11 +185,11 @@
 			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x12bb890508c125661e03b09ec06e404bc9289040.jpeg"
 		},
 		{
-			"address": "0xf7b629283Fb0585E490603a29b2B70b92D69f579",
+			"address": "0x55f42Ac7F27e2D3f5F1a7ad93Ce5D62267100B8e",
 			"decimals": "18",
-			"name": "IPToken",
+			"name": "IPTokens",
 			"symbol": "IP",
-			"logoURI": "https://chainconfig.github.io/bsc/tokens/0xf7b629283Fb0585E490603a29b2B70b92D69f579.jpeg"
+			"logoURI": "https://chainconfig.github.io/bsc/tokens/0x55f42Ac7F27e2D3f5F1a7ad93Ce5D62267100B8e.jpg"
 		},
 		{
 			"address": "0x54028359297b74de2913af18b73b3b1970336d82",
