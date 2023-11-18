@@ -161,7 +161,7 @@
 		  "symbol": "POT",
 		  "address": "0x3b5e381130673f794a5cf67fbba48688386bea86",
 		  "decimals": 18,
-		  "logoURI": "https://hashpaypie.oss-cn-hangzhou.aliyuncs.com/images/bsc/pot_logo.png"
+		  "logoURI": "https://chainconfig.github.io/bsc/tokens/0x3b5e381130673f794a5cf67fbba48688386bea86.png"
 		},
     {
       "name": "AI DAO",
